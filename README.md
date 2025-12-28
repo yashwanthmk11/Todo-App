@@ -66,4 +66,4 @@ Feel free to fork this project and submit pull requests for any improvements.
 
 ## License
 
-Open source project - feel free to use for learning and development 
+Open source project - feel free to use for learning and development.
